@@ -1,0 +1,16 @@
+{
+  "name": "pmwords",
+  "description": "search for standard words in translation",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
